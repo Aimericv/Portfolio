@@ -30,9 +30,9 @@
             <a href="https://github.com/Aimericv" target="_blank" style="text-decoration: none;">
               <i class="bi bi-github"></i> Github
             </a>
-        
-            <a href="https://github.com/Aimericv" target="_blank" style="text-decoration: none;">
-              <i class="bi bi-github"></i> Linkedin
+            
+            <a href="https://www.linkedin.com/in/aimeric-vermesse/" target="_blank" style="text-decoration: none;">
+              <i class="<bi bi-linkedin"></i> Linkedin
             </a>
         </h4>
           <nav class="navbar">
@@ -43,6 +43,7 @@
                 <a class="navbar-item" href="#skills">Compétences</a>
                 <a class="navbar-item" href="#education">Formation</a>
                 <a class="navbar-item" href="#experiences">Expériences Professionnelles</a>
+                <a class="navbar-item" href="#tableau">Tableau de synthèse</a>
               </div>
             </div>
           </nav>
@@ -346,7 +347,7 @@ $(document).ready(function() {
 
 
 </script>
-<center><object data="tableau_synthese.pdf" type="application/pdf" width="50%" height="1000">
+<center><section id="tableau" class="section"><object data="tableau_synthese.pdf" type="application/pdf" width="50%" height="1000">
   <p>Alternative text - include a link <a href="tableau_synthese.pdf">to the PDF!</a></p>
-</object></center>
+</object></section></center>
 </section>
